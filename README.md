@@ -1,4 +1,4 @@
-# This is a mint NFT and create candy machine website for beginners 
+# Ｍint NFT and create candy machine website for beginners 
 Here's the origin : https://github.com/metaplex-foundation/js-examples/tree/main/connect-wallet
 And Here's the reference URL for beginners : https://github.com/metaplex-foundation/js
 official website : https://docs.metaplex.com/programs/candy-machine/how-to-guides/my-first-candy-machine-part2
